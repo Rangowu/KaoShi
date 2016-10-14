@@ -1,0 +1,7 @@
+grunt 安装：
+1，首先 npm install grunt-cli  -g  全局安装
+2，cd 项目目录  npm install grunt --save-dev
+
+需要注意的是，在npm init的时候name属性不要叫做grunt
+
+使用grunt  [任务名称]  来执行grunt配置的任务
